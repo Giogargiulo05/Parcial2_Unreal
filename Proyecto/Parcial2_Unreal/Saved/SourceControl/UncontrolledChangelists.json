@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Alumno/Desktop/REPO/Parcial2_Unreal/Proyecto/Parcial2_Unreal/Content/ImportedBlenderAssets/SM_Pared_var0.uasset",
+				"C:/Users/Alumno/Desktop/REPO/Parcial2_Unreal/Proyecto/Parcial2_Unreal/Content/ImportedBlenderAssets/SM_Esquina_var0.uasset",
+				"C:/Users/Alumno/Desktop/REPO/Parcial2_Unreal/Proyecto/Parcial2_Unreal/Content/ImportedBlenderAssets/SM_Conec_Pate.uasset",
+				"C:/Users/Alumno/Desktop/REPO/Parcial2_Unreal/Proyecto/Parcial2_Unreal/Content/ImportedBlenderAssets/SM_Conec_EsTe_Var0.uasset",
+				"C:/Users/Alumno/Desktop/REPO/Parcial2_Unreal/Proyecto/Parcial2_Unreal/Content/ImportedBlenderAssets/SM_Techo_002.uasset",
+				"C:/Users/Alumno/Desktop/REPO/Parcial2_Unreal/Proyecto/Parcial2_Unreal/Content/ImportedBlenderAssets/SM_Techo_Var0.uasset",
+				"C:/Users/Alumno/Desktop/REPO/Parcial2_Unreal/Proyecto/Parcial2_Unreal/Content/ImportedBlenderAssets/SM_Techo_var1.uasset",
+				"C:/Users/Alumno/Desktop/REPO/Parcial2_Unreal/Proyecto/Parcial2_Unreal/Content/ImportedBlenderAssets/SM_Conec_Pate_var0.uasset"
+			]
+		}
+	]
+}
