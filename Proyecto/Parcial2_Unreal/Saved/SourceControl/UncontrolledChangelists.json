@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Parcial2_UnrealEngine_LosPibes/Parcial2_Unreal/Proyecto/Parcial2_Unreal/Content/ImportedBlenderAssets/SM_Top_Wall_Garage.uasset",
+				"D:/Parcial2_UnrealEngine_LosPibes/Parcial2_Unreal/Proyecto/Parcial2_Unreal/Content/ImportedBlenderAssets/SM_Mid_Wall_Garage.uasset",
+				"D:/Parcial2_UnrealEngine_LosPibes/Parcial2_Unreal/Proyecto/Parcial2_Unreal/Content/ImportedBlenderAssets/SM_Bottom_Wall_Garage.uasset",
+				"D:/Parcial2_UnrealEngine_LosPibes/Parcial2_Unreal/Proyecto/Parcial2_Unreal/Content/ImportedBlenderAssets/SM_Garage_Gate.uasset",
+				"D:/Parcial2_UnrealEngine_LosPibes/Parcial2_Unreal/Proyecto/Parcial2_Unreal/Content/ImportedBlenderAssets/SM_Garage_Metallic_Gate.uasset",
+				"D:/Parcial2_UnrealEngine_LosPibes/Parcial2_Unreal/Proyecto/Parcial2_Unreal/Content/ImportedBlenderAssets/SM_Floor_Garage.uasset",
+				"D:/Parcial2_UnrealEngine_LosPibes/Parcial2_Unreal/Proyecto/Parcial2_Unreal/Content/Leve/Enviroment.umap",
 				"C:/Users/Alumno/Documents/GitHub/Parcial2_Unreal/Proyecto/Parcial2_Unreal/Content/materials/MasterMaterial/ParedMetal.uasset",
 				"C:/Users/Alumno/Documents/GitHub/Parcial2_Unreal/Proyecto/Parcial2_Unreal/Content/ImportedBlenderAssets/SM_doorpared_var0.uasset",
 				"C:/Users/Alumno/Documents/GitHub/Parcial2_Unreal/Proyecto/Parcial2_Unreal/Content/ImportedBlenderAssets/SM_Esquina1m.uasset",
