@@ -1,0 +1,8 @@
+# Unreal Engine
+Proyecto/Parcial2_Unreal/Binaries/
+Proyecto/Parcial2_Unreal/DerivedDataCache/
+Proyecto/Parcial2_Unreal/Intermediate/
+Proyecto/Parcial2_Unreal/Saved/
+
+# Mac
+.DS_Store
